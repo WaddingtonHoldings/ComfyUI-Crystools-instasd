@@ -1,7 +1,7 @@
 // / <reference path="/types/litegraph.d.ts" />
 // A LOTS OF PATCHES FOR LITEGRAPH TYPES ¯\_(ツ)_/¯
 export type * from './liteGraph.types';
-export * from '/scripts/widgets.js';
+export * from '../../scripts/widgets.js';
 
 import type { IWidget as IWidgetOld, LGraphNode as TypeGraphNode, TypeLiteGraph } from './liteGraph.types';
 

@@ -1,5 +1,5 @@
 export type * from './liteGraph.types';
-export * from '/scripts/widgets.js';
+export * from '../../scripts/widgets.js';
 import type { IWidget as IWidgetOld, LGraphNode as TypeGraphNode, TypeLiteGraph } from './liteGraph.types';
 declare const LGraphNode: typeof TypeGraphNode;
 export interface IWidget extends IWidgetOld {

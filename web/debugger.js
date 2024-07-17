@@ -1,5 +1,5 @@
-import { app } from '/scripts/app.js';
-import { api } from '/scripts/api.js';
+import { app } from '../../scripts/app.js';
+import { api } from '../../scripts/api.js';
 import { commonPrefix, displayContext } from './common.js';
 import { LiteGraph, TLGraphNode, ComfyWidgets } from './liteGraph.js';
 app.registerExtension({

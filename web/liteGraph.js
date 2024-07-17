@@ -1,4 +1,4 @@
-export * from '/scripts/widgets.js';
+export * from '../../scripts/widgets.js';
 export class TLGraphNode extends LGraphNode {
     constructor() {
         super(...arguments);

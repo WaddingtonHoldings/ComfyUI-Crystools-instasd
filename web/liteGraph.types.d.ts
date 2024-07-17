@@ -1,8 +1,8 @@
 // A LOTS OF PATCHES FOR LITEGRAPH TYPES ¯\_(ツ)_/¯
-export type * from '/types/litegraph';
-export type * from '/scripts/widgets';
-export type * from '/scripts/app';
-export type { api } from '/scripts/api';
+export type * from '../../types/litegraph';
+export type * from '../../scripts/widgets';
+export type * from '../../scripts/app';
+export type { api } from '../../scripts/api';
 
 import { LGraph, LiteGraph } from '/types/litegraph';
 
