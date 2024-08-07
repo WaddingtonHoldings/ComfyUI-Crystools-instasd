@@ -1,8 +1,7 @@
 deepdiff
 torch
 numpy
-Pillow>=9.5.0
+Pillow
 pynvml
-py-cpuinfo>=9.0.0
-pyrsmi
+py-cpuinfo
 piexif
